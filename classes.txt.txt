@@ -1,0 +1,4 @@
+org.apache.bookkeeper.client.BookKeeperAdmin.java
+org.apache.bookkeeper.bookie.storage.ldb.ReadCache.java
+org.apache.syncope.core.provisioning.api.utils.FormatUtils.java
+org.apache.syncope.core.provisioning.api.jexl.JexlUtils.java
